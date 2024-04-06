@@ -1,6 +1,10 @@
-# About
-#### Hi, I'm Max, also known by my username 'ZASLON'.
-   Just a hobbyist programmer, working on all kinds of projects for fun.
+## About Myself
+#### Hi, I'm Max.
+**( Mostly known by my username 'ZASLON' )**
+
+   I'm a hobbyist programmer, working on all kinds of projects for fun.
+   
+   I also do 3D Modelling, Texture Art and Game Modification *(See below)*
     
 #### Languages / Software:
 [![Utilities](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,photoshop,blender,&theme=dark&perline=3)](https://skillicons.dev)
