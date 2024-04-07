@@ -19,7 +19,7 @@ I also do 3D Modelling, Texture Art and Game Modification &nbsp; ***<sup><sub>( 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Substance](https://img.shields.io/badge/-Substance_Painter-green?style=for-the-badge&logo=)
 
 #### Socials
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZASLONPC) ![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZASLONPC) [![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)](https://www.nexusmods.com/users/127940103)
 
 #### Hardware / OS
 ![CPU](https://img.shields.io/badge/i7_9700k-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Win11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
