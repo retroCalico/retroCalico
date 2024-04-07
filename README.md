@@ -1,17 +1,30 @@
-## About Myself
-#### Hi, I'm Max.
-**( Mostly known by my username 'ZASLON' )**
+## Hello.
 
-   I'm a hobbyist programmer, working on all kinds of projects for fun.
+<img align="left" width="150" height="150" src="https://github.com/ZSLN-dev/ZSLN-dev/assets/157525219/bff72a3d-5cbe-4423-8871-91f465838dd1">
+
+#### I'm Max  *<sup><sub>( Also known as ZASLON )</sub></sup>*
+
+I'm a hobbyist programmer, working on all kinds of projects for practice and fun. At the moment, I'm experiementing with C#, WPF and Blazor for the most part.
    
-   I also do 3D Modelling, Texture Art and Game Modification *(See below)*
-    
-#### Languages / Software:
-[![Utilities](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,photoshop,blender,&theme=dark&perline=3)](https://skillicons.dev)
+I also do 3D Modelling, Texture Art and Game Modification &nbsp; ***<sup><sub>( See below for Things I use / Links )</sub></sup>***
 
+   <p>&nbsp;</p>
+   
+#### Languages / Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![dotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-[![X](https://camo.githubusercontent.com/0ac419eb4df53beeb48c20e036e8d66b075b28a56450d37427ee975d5e73ab75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/ZASLONPC)
-<!---
-ZSLN-dev/ZSLN-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Software
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Substance](https://img.shields.io/badge/-Substance_Painter-green?style=for-the-badge&logo=)
+
+#### Socials
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZASLONPC) ![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)
+
+#### Hardware / OS
+![CPU](https://img.shields.io/badge/i7_9700k-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Win11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+   <p>&nbsp;</p>
+
+> [!NOTE]  
+> I'm not an experienced programmer, only a beginner hobbyist, thus any projects I make here are simply for practice / fun.
