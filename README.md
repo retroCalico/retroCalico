@@ -51,7 +51,7 @@ I also do 3D Modelling, Texture Art and Game Modification &nbsp; ***<sup><sub>( 
    <p>&nbsp;</p>
 
 ### Links
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZASLONPC)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devZAS)
 [![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)](https://www.nexusmods.com/users/127940103)
 
 ---
