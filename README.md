@@ -2,9 +2,9 @@
 
 <img align="left" width="150" height="150" src="https://github.com/ZSLN-dev/ZSLN-dev/assets/157525219/bff72a3d-5cbe-4423-8871-91f465838dd1">
 
-#### Hi there, I'm Max,
+#### Hi, I'm Max (a.k.a Jelly),
 
-I'm a hobbyist programmer, working on all kinds of projects for practice and fun. For now, I'm using ***C# and Blazor*** for the most part.
+I'm a hobbyist programmer, working on all kinds of projects for practice and fun using ***C# and .NET*** primarily.
    
 I also do 3D Modelling, Texture Art and Game Modification &nbsp; ***<sup><sub>( See below for Things I use / Links )</sub></sup>***
 
