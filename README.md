@@ -1,12 +1,15 @@
 ---
 
-<img align="left" width="150" height="150" src="https://github.com/ZSLN-dev/ZSLN-dev/assets/157525219/bff72a3d-5cbe-4423-8871-91f465838dd1">
+
+<img align="left" width="128" height="128" src="https://github.com/aJellyJar/aJellyJar/assets/157525219/109dc87e-8682-4b3f-8ba4-b0cb898a0928">
 
 #### Hi, I'm Max (a.k.a Jelly),
 
 I'm a hobbyist programmer, working on all kinds of projects for practice and fun using ***C# and .NET*** primarily.
    
-I also do 3D Modelling, Texture Art and Game Modification &nbsp; ***<sup><sub>( See below for Things I use / Links )</sub></sup>***
+I also do 3D Modelling, Texture Art and Game Modification &nbsp; 
+
+***<sup><sub>( See below for Things I use / Links )</sub></sup>***
 
    <p>&nbsp;</p>
    
@@ -44,14 +47,14 @@ I also do 3D Modelling, Texture Art and Game Modification &nbsp; ***<sup><sub>( 
   <a href="">![CPU](https://img.shields.io/badge/i7_9700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)</a>
   <a href="">![GPU](https://img.shields.io/badge/RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</a>
   <a href="">![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
-  <a href="">![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)</a>
+  <a href="">![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)</a>
 
 </div>
 
    <p>&nbsp;</p>
 
 ### Links
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devZAS)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jellyx64)
 [![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)](https://www.nexusmods.com/users/127940103)
 
 ---
