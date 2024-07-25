@@ -31,7 +31,6 @@ I also do 3D Modelling, Texture Art and Game Modification &nbsp;
 ### Software
 
   <a href="">![VS2022](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)</a>
-  <a href="">![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</a>
   <a href="">![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)</a>
   <a href="">![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)</a>
   <a href="">![Substance](https://img.shields.io/badge/-Substance_Painter-green?style=for-the-badge&logo=)</a>
@@ -59,4 +58,4 @@ I also do 3D Modelling, Texture Art and Game Modification &nbsp;
 
 ---
 > [!NOTE]  
-> I'm not an experienced programmer, only a beginner hobbyist, thus any projects I make here are simply for practice / fun.
+> I'm only a hobbyist, thus any projects I make here are simply for learning and / or fun.
