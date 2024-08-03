@@ -1,9 +1,8 @@
 ---
 
-
 <img align="left" width="128" height="128" src="https://github.com/aJellyJar/aJellyJar/assets/157525219/109dc87e-8682-4b3f-8ba4-b0cb898a0928">
 
-#### Hi, I'm Max (a.k.a Jelly),
+#### Hi, I'm Calico,
 
 I'm a hobbyist programmer, working on all kinds of projects for practice and fun using ***C# and .NET*** primarily.
    
@@ -53,9 +52,5 @@ I also do 3D Modelling, Texture Art and Game Modification &nbsp;
    <p>&nbsp;</p>
 
 ### Links
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jellyx64)
 [![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)](https://www.nexusmods.com/users/127940103)
 
----
-> [!NOTE]  
-> I'm only a hobbyist, thus any projects I make here are simply for learning and / or fun.
