@@ -2,11 +2,11 @@
 
 <img align="left" width="128" height="128" src="https://github.com/aJellyJar/aJellyJar/assets/157525219/109dc87e-8682-4b3f-8ba4-b0cb898a0928">
 
-#### Hi, I'm Calico,
+#### Hi
 
-I'm a hobbyist programmer, working on all kinds of projects for practice and fun using ***C# and .NET*** primarily.
+I'm a hobbyist, working on all kinds of projects for fun.
    
-I also do 3D Modelling, Texture Art and Game Modification &nbsp; 
+Currently experimenting in Game Development and 2D Asset Creation &nbsp; 
 
 ***<sup><sub>( See below for Things I use / Links )</sub></sup>***
 
