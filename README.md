@@ -1,6 +1,6 @@
 ---
 
-<img align="left" width="128" height="128" src="https://github.com/aJellyJar/aJellyJar/assets/157525219/109dc87e-8682-4b3f-8ba4-b0cb898a0928">
+<img align="left" width="128" height="128" src="https://raw.githubusercontent.com/devCalico/devCalico/main/RetroCalico.png">
 
 #### Hi
 
@@ -32,7 +32,8 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
   <a href="">![VS2022](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)</a>
   <a href="">![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)</a>
   <a href="">![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)</a>
-  <a href="">![Substance](https://img.shields.io/badge/-Substance_Painter-green?style=for-the-badge&logo=)</a>
+  <a href="">![Godot Engine](https://img.shields.io/badge/GODOT-FFFFFF.svg?style=for-the-badge&logo=godot-engine)</a>
+  <a href="">![Godot Engine](https://img.shields.io/badge/aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=)</a>
 
 </div>
 
