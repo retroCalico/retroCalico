@@ -1,6 +1,6 @@
 ---
 
-<img align="left" width="128" height="128" src="https://raw.githubusercontent.com/devCalico/devCalico/main/RetroCalico.png">
+<img align="left" width="128" height="128" src="https://raw.githubusercontent.com/retroCalico/retroCalico/main/RetroCalico.png">
 
 #### Hi
 
