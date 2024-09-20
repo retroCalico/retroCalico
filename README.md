@@ -16,10 +16,11 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
 
 <div align="left">
 
-### Languages / Frameworks
+### Workflow
 
   <a href="">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)</a>
   <a href="">![dotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
+  <a href="">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
 
 </div>
 
@@ -30,10 +31,10 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
 ### Software
 
   <a href="">![VS2022](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)</a>
+  <a href="">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
+  <a href="">![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)</a>
   <a href="">![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)</a>
   <a href="">![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)</a>
-  <a href="">![Godot Engine](https://img.shields.io/badge/GODOT-FFFFFF.svg?style=for-the-badge&logo=godot-engine)</a>
-  <a href="">![Godot Engine](https://img.shields.io/badge/aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=)</a>
 
 </div>
 
