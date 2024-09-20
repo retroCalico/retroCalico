@@ -14,7 +14,7 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
    
 ---
 
-<div align="center">
+<div align="left">
 
 ### Languages / Frameworks
 
@@ -25,7 +25,7 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
 
    <p>&nbsp;</p>
 
-<div align="center">
+<div align="left">
 
 ### Software
 
@@ -39,7 +39,7 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
 
    <p>&nbsp;</p>
 
-<div align="center">
+<div align="left">
 
 ### Hardware / OS
 
