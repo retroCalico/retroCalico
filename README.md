@@ -16,19 +16,13 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
 
 <div align="left">
 
-### Workflow
+### [ Preferences ]
 
   <a href="">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)</a>
   <a href="">![dotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
   <a href="">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
-
 </div>
-
-   <p>&nbsp;</p>
-
 <div align="left">
-
-### Software
 
   <a href="">![VS2022](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)</a>
   <a href="">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
@@ -42,7 +36,7 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
 
 <div align="left">
 
-### Hardware / OS
+### [ Hardware / OS ]
 
   <a href="">![CPU](https://img.shields.io/badge/i7_9700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)</a>
   <a href="">![GPU](https://img.shields.io/badge/RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</a>
@@ -53,6 +47,8 @@ Currently experimenting in Game Development and 2D Asset Creation &nbsp;
 
    <p>&nbsp;</p>
 
-### Links
+### [ Links ]
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/RetroCalico)
 [![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)](https://www.nexusmods.com/users/127940103)
+
 
