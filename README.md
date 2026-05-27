@@ -1,11 +1,14 @@
 
-### 👤 :
-Hobbyist of many hobbies.
-Certainly not a programmer.
+### About :
 
-### 🛠️:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+Mapper, Modder, Part-Time Philosopher ☕
 
-### 🌐:
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/dotCalico)
-[![Nexusmods](https://img.shields.io/badge/-nexusmods-orange?style=for-the-badge&logo=)](https://www.nexusmods.com/users/127940103)
+I make YouTube content about old videogames and community-made mods.
+
+---
+
+### Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@r3trocalico) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/r3trocalico)
+
+### Tools:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
